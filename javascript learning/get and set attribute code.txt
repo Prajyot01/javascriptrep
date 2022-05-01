@@ -1,0 +1,21 @@
+// Style change via javascript 
+
+// const mainHeading = document.querySelector("div.main-heading h1");
+// // console.log(mainHead);
+// mainHeading.style.color = "blue";
+// mainHeading.style.backgroundColor ="red";
+// mainHeading.style.border="20px solid green"
+// mainHeading.style.borderRadius="200px";
+
+
+// if(mainHeading.textContent=="hello good evening all of you2"){
+//     mainHeading.style.border="20px solid green"
+// }else{
+//     mainHeading.style.border="20px solid blue"
+// }
+
+// get and set attributes 
+
+// const link = document.querySelector("a");
+// console.log(link.getAttribute("href"));
+// link.setAttribute("href","https://www.google.com");
